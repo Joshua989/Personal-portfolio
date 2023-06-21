@@ -1,19 +1,20 @@
 {
   "name": "personal-portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "learning how to use boostrap",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Joshua989/Personal-portfolio.git"
-  },
+  "keywords": [
+    "boostral",
+    "boostrap-v5",
+    "sass",
+    "learnboostrap"
+  ],
   "author": "joshua",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Joshua989/Personal-portfolio/issues"
-  },
-  "homepage": "https://github.com/Joshua989/Personal-portfolio#readme"
+  "devDependencies": {
+    "sass": "^1.63.3"
+  }
 }
