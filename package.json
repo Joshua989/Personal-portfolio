@@ -4,7 +4,7 @@
   "description": "learning how to use boostrap",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "complile:sass": "sass --watch scss:assets/css"
   },
   "keywords": [
     "boostral",
